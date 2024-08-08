@@ -1,5 +1,5 @@
 {
-  "name": "@ontopo/top-pay-shared-components",
+  "name": "storybook-vue-tailwind",
   "version": "0.5.56",
   "main": "./dist/top-library.umd.js",
   "module": "./dist/top-library.es.js",
